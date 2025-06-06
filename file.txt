@@ -1,1 +1,3 @@
 "new edit in master branch" 
+"my new branch edit in file.txt" 
+
